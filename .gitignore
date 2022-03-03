@@ -1,2 +1,10 @@
-.terraform/
+.vscode
+
+.terraform
+terragrunt.iml
+*.tfstate
+*.tfstate.backup
+.terragrunt-cache
+.ruby-version
+.terraform.lock.hcl
 
